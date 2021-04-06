@@ -10,14 +10,14 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-![in-game](https://github.com/C0bal/gamemaker-flappy-nyan/blob/master/.github/in-game.gif)
+![in-game](https://github.com/C0bal/gamemaker-space-shooters/blob/master/.github/in-game.gif)
 
 ## 🚀 Getting started
 
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/C0bal/gamemaker-space-shooter && cd gamemaker-space-shooter
+$ git clone https://github.com/C0bal/gamemaker-space-shooters && cd gamemaker-space-shooters
 ```
 
 ```bash
